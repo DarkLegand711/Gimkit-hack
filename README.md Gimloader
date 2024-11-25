@@ -1,0 +1,21 @@
+This is a Gimkit plugin loader and manager, based on a trick first used in Gimhook with an API inspired by BetterDiscord.
+
+Installation
+Install ViolentMonkey for your browser.
+Click on this link
+Go to gimkit.com/join and there should be a wrench icon next to the join button.
+UI Preview
+
+Usage
+At any point, you can open the mod menu by pressing alt + p.
+
+I also painstakingly added buttons on every screen I could think of.
+These buttons can be disabled in the settings section.
+
+Once in the mod menu, you can create or import plugins with the two buttons at the top. There are some example plugins here. Some plugins depend on libraries, which you can manage in the libraries tab. Some plugins may also add hotkeys that you can change, which will be in the hotkeys tab.
+
+Gimhook Compatibility
+Gimloader has a polyfill to allow for Gimhook mods to work with it. If you have a Gimhook mod that doesn't work with Gimloader, please open an issue.
+
+Development
+Information on developing plugins can be found in the wiki.
